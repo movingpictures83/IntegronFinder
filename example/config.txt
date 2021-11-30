@@ -1,0 +1,2 @@
+Prefix plugins/IntegronFinder/example
+Plugin IntegronFinder inputfile input.fasta outputfile output
